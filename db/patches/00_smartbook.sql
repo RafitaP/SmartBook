@@ -1,0 +1,1 @@
+-- Pega aquí el contenido de tu smartbook.sql para crear la base.
